@@ -4,6 +4,6 @@ this is a book record management website in php and my sql
 when you use this code                                                          
 if(folder name != "app"){                                                   
     all the file and sub-folder should be inside the folder name " app"}                                                
-else{                                                                   
+otherwise{                                                                   
     this code not run                                                                   
 }                               
